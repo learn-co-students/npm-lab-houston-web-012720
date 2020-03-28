@@ -13,4 +13,6 @@ function displayTime() {
 
 }
 
+console.log("Hello World!")
 window.onload = displayTime()
+
