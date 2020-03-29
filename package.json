@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-houston-web-012720",
+  "version": "1.0.0",
+  "description": "lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gavrilajava/npm-lab-houston-web-012720.git"
+  },
+  "author": "Gavrilchik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gavrilajava/npm-lab-houston-web-012720/issues"
+  },
+  "homepage": "https://github.com/Gavrilajava/npm-lab-houston-web-012720#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
