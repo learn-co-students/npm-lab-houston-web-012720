@@ -1,0 +1,23 @@
+{
+  "lockfileVersion": 1,
+  "name": "package.json",
+  "description": "## Overview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vienpham2019/npm-lab-houston-web-012720.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vienpham2019/npm-lab-houston-web-012720/issues"
+  },
+  "homepage": "https://github.com/vienpham2019/npm-lab-houston-web-012720#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
